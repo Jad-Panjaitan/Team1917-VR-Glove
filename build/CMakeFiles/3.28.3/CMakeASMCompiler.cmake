@@ -1,17 +1,17 @@
-set(CMAKE_ASM_COMPILER "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc")
+set(CMAKE_ASM_COMPILER "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc")
 set(CMAKE_ASM_COMPILER_ARG1 "")
-set(CMAKE_AR "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar")
-set(CMAKE_ASM_COMPILER_AR "")
-set(CMAKE_RANLIB "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib")
-set(CMAKE_ASM_COMPILER_RANLIB "")
-set(CMAKE_LINKER "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld")
+set(CMAKE_AR "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-ar")
+set(CMAKE_ASM_COMPILER_AR "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc-ar")
+set(CMAKE_RANLIB "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-ranlib")
+set(CMAKE_ASM_COMPILER_RANLIB "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc-ranlib")
+set(CMAKE_LINKER "/Users/aurenciabarton/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-ld")
 set(CMAKE_MT "")
-set(CMAKE_TAPI "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/tapi")
+set(CMAKE_TAPI "CMAKE_TAPI-NOTFOUND")
 set(CMAKE_ASM_COMPILER_LOADED 1)
-set(CMAKE_ASM_COMPILER_ID "AppleClang")
+set(CMAKE_ASM_COMPILER_ID "GNU")
 set(CMAKE_ASM_COMPILER_VERSION "")
 set(CMAKE_ASM_COMPILER_ENV_VAR "ASM")
-set(CMAKE_ASM_COMPILER_ID_VENDOR_MATCH [==[Apple clang version]==])
+
 
 
 
