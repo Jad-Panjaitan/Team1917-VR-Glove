@@ -1,0 +1,1 @@
+extern int app_trans(int x, int y);
